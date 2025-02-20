@@ -2,7 +2,7 @@
 
 Hello! I'm Ubani blessing, a detail driven data analyst, I empower organizations to make informed decision by transforming complex data into actionable insight. With Excel, Power BI and SQL, I leverage advanced data analysis and visualization techniques to uncover trends, Identify areas of improvement and drive business growth.
 
-#SKILLS
+# SKILLS
 
 1. Proficient in data cleaning, processing and exploratory data analysis (EDA) using Excel and Power BI
 2. Experience building interactive dashboards and reports using Excel and Power BI

@@ -18,7 +18,7 @@ Below are some of the projects I have worked on.
 ![PHCN Dashboard](PHCN.png)	 <!-- Image of Project Dashboard -->	
 
 The PHCN popularly known as NEPA is a Nigerian owned Electricity distrbution company saddled  with the responsibility of Electricity distribution. it is the countries most prominent national grid for now, however so many economic factors has plagued its existence, leading to its loss of revenue generation and financial planing. This project seeks to analyze factors that influence survival of the company,its irregularities.
-[Read More](PHCN_documentation.pdf)
+[Read More](PHCN documentation.pdf)
 
 
 

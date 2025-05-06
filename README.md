@@ -28,7 +28,7 @@ The PHCN popularly known as NEPA is a Nigerian owned Electricity distrbution com
 |----------|----------|
 | 📩   |   [ubaniblessed.1@gmail.com](mailto:ubaniblessed.1@gmail.com)  	 
 | 📞   |   [2347050627116](https://wa.me/2347050627116)  	  	 		
-| 🗃️	| 	[View Resume](technicalResume.pdf)				 			
+| 🗃️	| 	[View Resume](technical Resume.pdf)				 			
 | 📺	|	[ubaniblesssing/URL](https://www.example.com)	          		 | 		<!-- replace https://www.example.com with your youtube url -->
 
 
